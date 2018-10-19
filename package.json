@@ -19,6 +19,7 @@
   "author": "dmred",
   "license": "ISC",
   "dependencies": {
+    "instagram-web-api": "^2.0.0",
     "node-static": "^0.7.11"
   }
 }
