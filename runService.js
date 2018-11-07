@@ -3,7 +3,8 @@ const Instagram = require('instagram-web-api');
 //const MongoClient = require('mongodb').MongoClient;
 const Asyncmongodb = require('./mong');
 // Connection URL
-const URL = 'mongodb://localhost:27017';
+//const URL = 'mongodb://localhost:27017';
+const URL = 'mongodb://dmred:Dima2413965@ds024548.mlab.com:24548/henst';
 // Database Name
 const DB_NAME = 'henst';
 const COLLECTION = 'login';

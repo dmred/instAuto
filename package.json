@@ -4,7 +4,7 @@
   "description": "HElper for iNSTagram that helps to automatizate approves for insta",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
