@@ -1,6 +1,6 @@
 {
   "name": "henst",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "HElper for iNSTagram that helps to automatizate approves for insta",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   "license": "ISC",
   "dependencies": {
     "instagram-web-api": "^2.0.0",
+    "mongodb": "^3.1.8",
     "node-static": "^0.7.11"
   }
 }
